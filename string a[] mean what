@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	
+	string a;
+	string b[] = "b";
+	//string c[]; 
+	//c[]後面的中括號是指你給的字串大小
+	//系統會幫你設定中括號裡的值 
+	//所以你後面沒有值 也就沒有大小
+	//系統不知道要給中括號什麼
+	//所以會錯誤 
+	
+	
+	return 0;
+}
